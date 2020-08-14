@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img width="200" align="center" src="https://github.com/Jean-Domingues/Jean-Domingues/blob/master/avatar.png" />
-</p>  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeandomingues-desenvolvedor-react-front-end/">
