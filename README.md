@@ -23,3 +23,14 @@
   <img src="https://img.shields.io/badge/git%20-%23121011.svg?&style=for-the-badge&logo=git&logoColor=%23F05033"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+## GitHub Status 🐱‍👤
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Jean-Domingues&show_icons=true">
+</p>
+
+<p align = "center">
+  
+  <img src="https://badges.pufler.dev/repos/Jean-Domingues?style=for-the-badge&labelColor=%23121011&color=white"/>
+  <img src="https://badges.pufler.dev/years/Jean-Domingues?style=for-the-badge&labelColor=%23121011&color=white"/>
+</p>
