@@ -14,7 +14,7 @@
 <a href="mailto:jeandomingues752@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=social&logo=Gmail"></a>
 </p>
 
-## Tecnologias ⚙
+## Stack 🔋
 
 <p>
   <img src="https://img.shields.io/badge/javascript%20-%23121011.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
