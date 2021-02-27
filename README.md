@@ -2,12 +2,12 @@
 
 <img align='right' src='https://media.tenor.com/images/15ed2be7d7f7ecc28f2d97af27883dab/tenor.gif' width='300'>
 
-**Desenvolvedor Front-end** 
+**Desenvolvedor Web** 
 
 
-- 👨‍🎓 Estudante de Engenharia da Computação.
+- 👨‍🎓 Engenharia da Computação.
 
-- 👨‍💻 Tecnologias favoritas: Javascript && React
+- 👨‍💻 MERN stack
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jeandomingues-desenvolvedor-react-front-end/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=social&logo=linkedin"></a>
