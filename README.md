@@ -7,7 +7,7 @@
 
 - 👨‍🎓 Engenharia da Computação.
 
-- 👨‍💻 MERN stack
+- 👨‍💻 JS stack
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jeandomingues-desenvolvedor-react-front-end/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=social&logo=linkedin"></a>
