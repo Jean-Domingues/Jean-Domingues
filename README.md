@@ -2,7 +2,7 @@
 
 - 👨‍💻 Software engineering
 
-<a href="https://www.linkedin.com/in/jeandomingues-desenvolvedor-react-front-end/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="www.linkedin.com/in/jeandomingues-software-engineer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:jeandomingues752@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 
@@ -18,9 +18,4 @@
 ## GitHub Status
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Jean-Domingues&show_icons=true">
-</p>
-
-<p align = "center">
-  <img src="https://badges.pufler.dev/repos/Jean-Domingues?style=for-the-badge&labelColor=%23121011&color=white"/>
-  <img src="https://badges.pufler.dev/years/Jean-Domingues?style=for-the-badge&labelColor=%23121011&color=white"/>
 </p>
